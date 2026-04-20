@@ -1,0 +1,30 @@
+# Database Configuration Template
+# =============================
+
+# PostgreSQL Configuration (Required - Main Database)
+POSTGRES_HOST=localhost
+POSTGRES_PORT=5432
+POSTGRES_DB=healthcare_data
+POSTGRES_USER=your_postgres_username
+POSTGRES_PASSWORD=your_postgres_password
+
+# MySQL Configuration (Optional - Secondary Database)
+MYSQL_HOST=localhost
+MYSQL_PORT=3306
+MYSQL_DB=healthcare_data
+MYSQL_USER=Bala
+MYSQL_PASSWORD=9788
+
+# SQLite Configuration (Optional - Local Database)
+# SQLite will create a file in the backend directory
+SQLITE_PATH=healthcare_data.db
+
+# Legacy Configuration (for backward compatibility)
+# DATABASE_URL=postgresql://username:password@localhost:5432/database_name
+
+# OpenAI Configuration
+OPENAI_API_KEY=your_openai_api_key_here
+
+# Encryption Keys (Auto-generated)
+ENCRYPTION_KEY=your_encryption_key_here
+SALT_KEY=your_salt_key_here

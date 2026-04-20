@@ -1,0 +1,141 @@
+role,column_name,classification
+admin,Patient Name,SENSITIVE
+admin,Date of Birth,SENSITIVE
+admin,Address,SENSITIVE
+admin,Phone Number,SENSITIVE
+admin,Email,SENSITIVE
+admin,Medical Record Number (MRN),SENSITIVE
+admin,Genetic Data,SENSITIVE
+admin,Diagnosis,SENSITIVE
+admin,Prescription History,SENSITIVE
+admin,Internal Patient ID,SENSITIVE
+admin,Staff Name,INTERNAL
+admin,Department,INTERNAL
+admin,Shift Time,INTERNAL
+admin,Hospital Budget,INTERNAL
+admin,Research Findings,INTERNAL
+admin,Employee Compensation,INTERNAL
+admin,Disease Prevalence,INTERNAL
+admin,Average Life Expectancy,INTERNAL
+admin,Vaccination Rate,INTERNAL
+admin,Transaction ID,INTERNAL
+admin,Location,INTERNAL
+admin,Social Media Handle,PUBLIC
+admin,IP Address,INTERNAL
+admin,Event ID,INTERNAL
+admin,Time of Day,INTERNAL
+admin,Random Value,INTERNAL
+admin,Device ID,INTERNAL
+admin,Weather Condition,PUBLIC
+analyst,Patient Name,SENSITIVE
+analyst,Date of Birth,SENSITIVE
+analyst,Address,SENSITIVE
+analyst,Phone Number,SENSITIVE
+analyst,Email,SENSITIVE
+analyst,Medical Record Number (MRN),SENSITIVE
+analyst,Genetic Data,SENSITIVE
+analyst,Diagnosis,SENSITIVE
+analyst,Prescription History,SENSITIVE
+analyst,Internal Patient ID,SENSITIVE
+analyst,Staff Name,SENSITIVE
+analyst,Department,INTERNAL
+analyst,Shift Time,INTERNAL
+analyst,Hospital Budget,INTERNAL
+analyst,Research Findings,INTERNAL
+analyst,Employee Compensation,INTERNAL
+analyst,Disease Prevalence,PUBLIC
+analyst,Average Life Expectancy,PUBLIC
+analyst,Vaccination Rate,PUBLIC
+analyst,Transaction ID,INTERNAL
+analyst,Location,PUBLIC
+analyst,Social Media Handle,SENSITIVE
+analyst,IP Address,SENSITIVE
+analyst,Event ID,INTERNAL
+analyst,Time of Day,INTERNAL
+analyst,Random Value,INTERNAL
+analyst,Device ID,SENSITIVE
+analyst,Weather Condition,PUBLIC
+doctor,Patient Name,SENSITIVE
+doctor,Date of Birth,SENSITIVE
+doctor,Address,SENSITIVE
+doctor,Phone Number,SENSITIVE
+doctor,Email,SENSITIVE
+doctor,Medical Record Number (MRN),SENSITIVE
+doctor,Genetic Data,SENSITIVE
+doctor,Diagnosis,SENSITIVE
+doctor,Prescription History,SENSITIVE
+doctor,Internal Patient ID,SENSITIVE
+doctor,Staff Name,INTERNAL
+doctor,Department,INTERNAL
+doctor,Shift Time,INTERNAL
+doctor,Hospital Budget,INTERNAL
+doctor,Research Findings,INTERNAL
+doctor,Employee Compensation,INTERNAL
+doctor,Disease Prevalence,PUBLIC
+doctor,Average Life Expectancy,PUBLIC
+doctor,Vaccination Rate,PUBLIC
+doctor,Transaction ID,INTERNAL
+doctor,Location,INTERNAL
+doctor,Social Media Handle,PUBLIC
+doctor,IP Address,INTERNAL
+doctor,Event ID,INTERNAL
+doctor,Time of Day,INTERNAL
+doctor,Random Value,INTERNAL
+doctor,Device ID,INTERNAL
+doctor,Weather Condition,PUBLIC
+researcher,Patient Name,SENSITIVE
+researcher,Date of Birth,SENSITIVE
+researcher,Address,SENSITIVE
+researcher,Phone Number,SENSITIVE
+researcher,Email,SENSITIVE
+researcher,Medical Record Number (MRN),SENSITIVE
+researcher,Genetic Data,SENSITIVE
+researcher,Diagnosis,SENSITIVE
+researcher,Prescription History,SENSITIVE
+researcher,Internal Patient ID,SENSITIVE
+researcher,Staff Name,INTERNAL
+researcher,Department,INTERNAL
+researcher,Shift Time,INTERNAL
+researcher,Hospital Budget,INTERNAL
+researcher,Research Findings,PUBLIC
+researcher,Employee Compensation,INTERNAL
+researcher,Disease Prevalence,PUBLIC
+researcher,Average Life Expectancy,PUBLIC
+researcher,Vaccination Rate,PUBLIC
+researcher,Transaction ID,INTERNAL
+researcher,Location,INTERNAL
+researcher,Social Media Handle,SENSITIVE
+researcher,IP Address,SENSITIVE
+researcher,Event ID,INTERNAL
+researcher,Time of Day,INTERNAL
+researcher,Random Value,INTERNAL
+researcher,Device ID,INTERNAL
+researcher,Weather Condition,PUBLIC
+staff,Patient Name,SENSITIVE
+staff,Date of Birth,SENSITIVE
+staff,Address,SENSITIVE
+staff,Phone Number,SENSITIVE
+staff,Email,SENSITIVE
+staff,Medical Record Number (MRN),SENSITIVE
+staff,Genetic Data,SENSITIVE
+staff,Diagnosis,SENSITIVE
+staff,Prescription History,SENSITIVE
+staff,Internal Patient ID,SENSITIVE
+staff,Staff Name,INTERNAL
+staff,Department,INTERNAL
+staff,Shift Time,INTERNAL
+staff,Hospital Budget,INTERNAL
+staff,Research Findings,INTERNAL
+staff,Employee Compensation,INTERNAL
+staff,Disease Prevalence,PUBLIC
+staff,Average Life Expectancy,PUBLIC
+staff,Vaccination Rate,PUBLIC
+staff,Transaction ID,INTERNAL
+staff,Location,INTERNAL
+staff,Social Media Handle,PUBLIC
+staff,IP Address,INTERNAL
+staff,Event ID,INTERNAL
+staff,Time of Day,INTERNAL
+staff,Random Value,INTERNAL
+staff,Device ID,INTERNAL
+staff,Weather Condition,PUBLIC
